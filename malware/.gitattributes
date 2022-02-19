@@ -1,0 +1,2 @@
+OwOGame[[:space:]](1).exe filter=lfs diff=lfs merge=lfs -text
+OwOGame.exe filter=lfs diff=lfs merge=lfs -text
